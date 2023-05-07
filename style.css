@@ -1,0 +1,47 @@
+#logo{
+    width: 100px;
+    height: 100px;
+}
+
+body{
+    background-color: whitesmoke  ;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+ }  
+
+h2{
+    font-family: cursive;
+}
+
+h3{
+    font-family: serif;
+}
+
+h4{
+    float: inline-start;
+    border-color: blue;
+}
+
+#logo1{
+    width: 1px;
+    height: 1px;
+}
+
+p{
+    font-size:20px;
+    color:darkred;
+    background-color: aliceblue;
+}
+
+#cartoon{
+    height: 150px;
+    width: 150px;
+}
